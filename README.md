@@ -7,6 +7,6 @@ Embox OS boot time optimization
 2. Pick Embox modules, that are lagging behind the most
 3. Compare them to the similar ones in Rumpkernel, and find a spot to improve
 
-###Status
+### Status
 Currently working on creating objectively equal configurations for both
 Embox and Rumprun
